@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(rgb(253, 216, 216)), color-stop(50%, crimson), color-stop(90%, rgb(247, 156, 91)));
+    background-repeat: no-repeat;
+    font-family: 'Hind', sans-serif;
+}
+
+.dori {
+    float: right;
+    margin-top: 576px;
+    width: 438px;
+    padding-right: 1000px;
+    margin-bottom: 50px;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    letter-spacing: 2px;
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    background: linear-gradient(#FA5C65, #DD197E);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: center;
+    font-size: 200px;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
